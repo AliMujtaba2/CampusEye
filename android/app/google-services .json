@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "483302109695",
+    "project_id": "login-d5e5f",
+    "storage_bucket": "login-d5e5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483302109695:android:fd59bdf381161ea18237ca",
+        "android_client_info": {
+          "package_name": "com.campuseye.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483302109695-hovt783h4dscpsufik1jueevfrapp031.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm81yQX2xaEhh97pAnv_TKGTbG-39Vqww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483302109695-hovt783h4dscpsufik1jueevfrapp031.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483302109695-hkng5gpv2qasdgoahrt24d1belnejcph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campuseyeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
